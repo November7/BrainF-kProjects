@@ -1,4 +1,5 @@
-# BrainFuck Examples
+[![Language-English-success](https://img.shields.io/badge/Language-English-success)](#En)
+[![J%C4%99zyk-Polski-red](https://img.shields.io/badge/J%C4%99zyk-Polski-red)](#PL)
 
 ## PL
 
@@ -30,7 +31,7 @@ Projekt udostępniony jest na licencji MIT - możesz dowolnie korzystać z kodu,
 
 ---
 
-## English
+## En
 
 ### About the project
 
