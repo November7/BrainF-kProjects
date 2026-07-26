@@ -1,6 +1,8 @@
 [![Language-English-success](https://img.shields.io/badge/Language-English-success)](#English)
 [![J%C4%99zyk-Polski-red](https://img.shields.io/badge/J%C4%99zyk-Polski-red)](#Polski)
 
+[![Brainfuck Interpreter](https://img.shields.io/badge/Brainfuck-Interpreter-blue?logo=codeforces&logoColor=white)](https://monocalc.com/tool/programming/brainfuck_interpreter)
+
 ## Polski
 
 ### O projekcie
