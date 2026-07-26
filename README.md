@@ -9,8 +9,8 @@ To repozytorium zawiera zbiór przykładowych programów napisanych w języku **
 
 ### Zawartość repozytorium
 
-- 📁 **`examples/`** - gotowe programy w BrainFuck, uporządkowane według poziomu trudności (od "Hello World" po bardziej złożone algorytmy, np. sortowanie czy obliczenia matematyczne)
-- 📁 **`docs/`** - krótkie wyjaśnienie składni i zasad działania języka
+- **`examples/`** - gotowe programy w BrainFuck, uporządkowane według poziomu trudności (od "Hello World" po bardziej złożone algorytmy, np. sortowanie czy obliczenia matematyczne)
+- **`docs/`** - krótkie wyjaśnienie składni i zasad działania języka
 
 ### Dla kogo jest to repo?
 
@@ -39,8 +39,8 @@ This repository contains a collection of example programs written in **BrainFuck
 
 ### Repository contents
 
-- 📁 **`examples/`** - ready-to-run BrainFuck programs, organized by difficulty (from "Hello World" to more advanced algorithms such as sorting or basic arithmetic)
-- 📁 **`docs/`** - a short explanation of the language's syntax and how it works
+- **`examples/`** - ready-to-run BrainFuck programs, organized by difficulty (from "Hello World" to more advanced algorithms such as sorting or basic arithmetic)
+- **`docs/`** - a short explanation of the language's syntax and how it works
 
 ### Who is this repo for?
 
