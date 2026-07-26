@@ -61,5 +61,10 @@ This project is intended for:
 
 This project is released under the MIT License - feel free to use, modify, and distribute the code.
 
-![AI Generated](https://img.shields.io/badge/AI-Generated-4B8BF5?style=flat&logo=githubcopilot&logoColor=white)
+![Readme AI Generated](https://img.shields.io/badge/AI-Generated-4B8BF5?style=flat&logo=githubcopilot&logoColor=white)
+![AI Generated](https://img.shields.io/badge/AI-Generated-000000?style=flat-square&logo=openai&logoColor=white)
+![AI Generated](https://img.shields.io/badge/AI-Generated-9cf?style=flat&logo=spark&logoColor=black)
+[![AI Generated](https://img.shields.io/badge/AI-Generated-4B8BF5?style=flat&logo=githubcopilot&logoColor=white)](#)
+
+
 
