@@ -1,7 +1,7 @@
+[![AI Generated](https://img.shields.io/badge/README-AI%20Generated-4B8BF5?style=flat&logo=githubcopilot&logoColor=white)](#)
 [![Language-English-success](https://img.shields.io/badge/Language-English-success)](#English)
 [![J%C4%99zyk-Polski-red](https://img.shields.io/badge/J%C4%99zyk-Polski-red)](#Polski)
-
-[![Brainfuck Interpreter](https://img.shields.io/badge/Brainfuck-Interpreter-blue?logo=codeforces&logoColor=white)](https://monocalc.com/tool/programming/brainfuck_interpreter)
+[![Brainfuck Interpreter](https://img.shields.io/badge/Brainfuck-Interpreter-blue?logo=codeforces&logoColor=white)](https://monocalc.com/tool/programming/brainfuck_interpreter) 
 
 ## Polski
 
@@ -31,8 +31,6 @@ Projekt jest przeznaczony dla:
 
 Projekt udostępniony jest na licencji MIT - możesz dowolnie korzystać z kodu, modyfikować go i rozpowszechniać.
 
----
-
 ## English
 
 ### About the project
@@ -60,11 +58,6 @@ This project is intended for:
 ### License
 
 This project is released under the MIT License - feel free to use, modify, and distribute the code.
-
-![AI Generated](https://img.shields.io/badge/AI-Generated-4B8BF5?style=flat&logo=githubcopilot&logoColor=white)
-![AI Generated](https://img.shields.io/badge/AI-Generated-000000?style=flat-square&logo=openai&logoColor=white)
-![AI Generated](https://img.shields.io/badge/AI-Generated-9cf?style=flat&logo=spark&logoColor=black)
-[![AI Generated](https://img.shields.io/badge/AI-Generated-4B8BF5?style=flat&logo=githubcopilot&logoColor=white)](#)
 
 
 
