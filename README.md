@@ -1,11 +1,11 @@
-[![Language-English-success](https://img.shields.io/badge/Language-English-success)](#En)
-[![J%C4%99zyk-Polski-red](https://img.shields.io/badge/J%C4%99zyk-Polski-red)](#PL)
+[![Language-English-success](https://img.shields.io/badge/Language-English-success)](#English)
+[![J%C4%99zyk-Polski-red](https://img.shields.io/badge/J%C4%99zyk-Polski-red)](#Polski)
 
-## PL
+## Polski
 
 ### O projekcie
 
-To repozytorium zawiera zbiór przykładowych programów napisanych w języku **BrainFuck** — jednym z najbardziej minimalistycznych języków programowania, jakie kiedykolwiek stworzono. Cały język operuje na zaledwie ośmiu instrukcjach (`> < + - . , [ ]`), a mimo to jest w pełni Turing-zupełny, co czyni go doskonałym materiałem do nauki podstaw działania maszyn obliczeniowych, wskaźników pamięci i logiki niskopoziomowej.
+To repozytorium zawiera zbiór przykładowych programów napisanych w języku **BrainFuck** - jednym z najbardziej minimalistycznych języków programowania, jakie kiedykolwiek stworzono. Cały język operuje na zaledwie ośmiu instrukcjach (`> < + - . , [ ]`), a mimo to jest w pełni Turing-zupełny, co czyni go doskonałym materiałem do nauki podstaw działania maszyn obliczeniowych, wskaźników pamięci i logiki niskopoziomowej.
 
 ### Zawartość repozytorium
 
@@ -31,11 +31,11 @@ Projekt udostępniony jest na licencji MIT - możesz dowolnie korzystać z kodu,
 
 ---
 
-## En
+## English
 
 ### About the project
 
-This repository contains a collection of example programs written in **BrainFuck** — one of the most minimalist programming languages ever created. The entire language operates on just eight instructions (`> < + - . , [ ]`), yet it is fully Turing-complete, making it a great tool for learning the fundamentals of computation, memory pointers, and low-level logic.
+This repository contains a collection of example programs written in **BrainFuck** - one of the most minimalist programming languages ever created. The entire language operates on just eight instructions (`> < + - . , [ ]`), yet it is fully Turing-complete, making it a great tool for learning the fundamentals of computation, memory pointers, and low-level logic.
 
 ### Repository contents
 
