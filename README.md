@@ -60,3 +60,6 @@ This project is intended for:
 ### License
 
 This project is released under the MIT License - feel free to use, modify, and distribute the code.
+
+![AI Generated](https://img.shields.io/badge/AI-Generated-4B8BF5?style=flat&logo=githubcopilot&logoColor=white)
+
